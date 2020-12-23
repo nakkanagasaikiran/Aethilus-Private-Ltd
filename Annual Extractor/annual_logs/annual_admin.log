@@ -1,0 +1,150 @@
+2020-11-30 20:15:50,314 - *** Started Annual file extraction ***
+2020-11-30 20:15:50,314 - DEC ~ Declaring global variables
+2020-11-30 20:15:50,314 - CONF ~ Extracting configurations
+2020-11-30 20:15:50,350 - ACL ~ Extracting list of Active companies
+2020-11-30 20:15:50,350 - CHL ~ Extracting cumulative headers list
+2020-11-30 20:15:52,337 - CMP + MKTCAP + PRICE PERFORMANCE ~ Started Extraction Of CMP, MKTCAP & Price Performance %
+2020-11-30 20:15:52,593 - ALL KPI MAIN LOOP ~ Started extraction of KPIs for CIFC within Financial Institutions
+2020-11-30 20:15:53,134 -       Upside & Target Price ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       DATA COLUMN MAPPER ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       NII ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       NET SALES ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       EBITDA ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       PBT ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       NET PROFIT ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       LOANS & ADVANCES ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       EPS ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       BVPS ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       NET INTEREST MARGIN ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       ROE ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       ROA ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       GROSS NPA ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       NET NPA ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       LLP/AVG LOAN ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       YIELD ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,142 -       PER ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       PB ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       EBITDA Growth ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       LOANS & ADAVCES Growth ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       Net Profit Growth ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       Net Sales Growth ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       PBT Growth ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       EBITDA CAGR ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       NET SALES CAGR ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       LOANS & ADVANCES CAGR ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       Net Profit CAGR ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       PBT CAGR ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,145 -       PEG ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,146 -       EVEB ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,146 -       EVSL ~ Extraction for company CIFC within sector Financial Institutions
+2020-11-30 20:15:53,146 - ALL KPI MAIN LOOP ~ Started extraction of KPIs for JSP within Metals
+2020-11-30 20:15:53,245 -       Upside & Target Price ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,245 -       DATA COLUMN MAPPER ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,245 -       NET SALES ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,245 -       EBITDA ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       PBT ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       NET PROFIT ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       EPS ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       BVPS ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       ROE ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       ROCE ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       YIELD ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       PER ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       PB ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       EBITDA Growth ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       LOANS & ADAVCES Growth ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       Net Profit Growth ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       Net Sales Growth ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       PBT Growth ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,248 -       EBITDA CAGR ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,250 -       NET SALES CAGR ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,250 -       LOANS & ADVANCES CAGR ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,250 -       Net Profit CAGR ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,250 -       PBT CAGR ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,266 -       PEG ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,266 -       EVEB ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,266 -       EVSL ~ Extraction for company JSP within sector Metals
+2020-11-30 20:15:53,266 - ALL KPI MAIN LOOP ~ Started extraction of KPIs for KKC within Metals
+2020-11-30 20:15:54,255 -       Upside & Target Price ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,256 -       DATA COLUMN MAPPER ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,256 -       NET SALES ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,256 -       EBITDA ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,256 -       PBT ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,256 -       NET PROFIT ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       EPS ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       BVPS ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       ROE ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       ROCE ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       YIELD ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       PER ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,257 -       PB ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       EBITDA Growth ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       LOANS & ADAVCES Growth ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       Net Profit Growth ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       Net Sales Growth ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       PBT Growth ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,258 -       EBITDA CAGR ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       NET SALES CAGR ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       LOANS & ADVANCES CAGR ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       Net Profit CAGR ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       PBT CAGR ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       PEG ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       EVEB ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 -       EVSL ~ Extraction for company KKC within sector Metals
+2020-11-30 20:15:54,259 - ALL KPI MAIN LOOP ~ Started extraction of KPIs for KSCL within Agriculture
+2020-11-30 20:15:54,380 -       Upside & Target Price ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,380 -       DATA COLUMN MAPPER ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,381 -       NET SALES ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,381 -       EBITDA ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,381 -       PBT ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,381 -       NET PROFIT ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,382 -       EPS ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,382 -       BVPS ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       ROE ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       ROCE ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       YIELD ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       PER ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       PB ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       EBITDA Growth ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       LOANS & ADAVCES Growth ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       Net Profit Growth ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       Net Sales Growth ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       PBT Growth ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,383 -       EBITDA CAGR ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       NET SALES CAGR ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       LOANS & ADVANCES CAGR ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       Net Profit CAGR ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       PBT CAGR ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       PEG ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       EVEB ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 -       EVSL ~ Extraction for company KSCL within sector Agriculture
+2020-11-30 20:15:54,384 - ALL KPI MAIN LOOP ~ Started extraction of KPIs for PI within Agriculture
+2020-11-30 20:15:54,528 -       Upside & Target Price ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,528 -       DATA COLUMN MAPPER ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,528 -       NET SALES ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,528 -       EBITDA ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,528 -       PBT ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,529 -       NET PROFIT ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,529 -       EPS ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,529 -       BVPS ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       ROE ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       ROCE ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       YIELD ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       PER ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       PB ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       EBITDA Growth ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       LOANS & ADAVCES Growth ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       Net Profit Growth ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       Net Sales Growth ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       PBT Growth ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       EBITDA CAGR ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,530 -       NET SALES CAGR ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       LOANS & ADVANCES CAGR ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       Net Profit CAGR ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       PBT CAGR ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       PEG ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       EVEB ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:54,531 -       EVSL ~ Extraction for company PI within sector Agriculture
+2020-11-30 20:15:59,654 - *** Started history file extraction ***
+2020-11-30 20:15:59,784 - *** Started history access extraction ***
+2020-11-30 20:16:00,860 - *** End of extract ***

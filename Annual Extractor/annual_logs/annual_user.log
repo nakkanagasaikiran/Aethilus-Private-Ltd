@@ -1,0 +1,8 @@
+2020-11-30 20:15:53,146 - PEG ~ Unable to compute PEG for Company CIFC within Sector Financial Institutions PER Curr Year = 0, Net Profit CAGR 2Y = 0
+2020-11-30 20:15:53,250 - NET PROFIT CAGR ~ Unable to compute NPCAGR-Last 5Y for Company JSP within Sector Metals year = 2020 CAGR = -3582.8827417600887, year = 2015 CAGR = 6335.200000000013 
+2020-11-30 20:15:53,250 - NET PROFIT CAGR ~ Unable to compute NPCAGR-Last 3Y for Company JSP within Sector Metals year = 2020 CAGR = -3582.8827417600887, year = 2017 CAGR = -19127.699999999968 
+2020-11-30 20:15:53,250 - PBT CAGR ~ Unable to compute PBTCAGR-Last 5Y for Company JSP within Sector Metals year = 2020 CAGR = -5233.778427200107, year = 2015 CAGR = 3688.9000000000124 
+2020-11-30 20:15:53,266 - PBT CAGR ~ Unable to compute PBTCAGR-Last 3Y for Company JSP within Sector Metals year = 2020 CAGR = -5233.778427200107, year = 2017 CAGR = -26705.899999999965 
+2020-11-30 20:15:53,266 - PEG ~ Unable to compute PEG for Company JSP within Sector Metals PER Curr Year = -38.401196722505766, Net Profit CAGR 2Y = 0
+2020-11-30 20:15:54,384 - PEG ~ Unable to compute PEG for Company KSCL within Sector Agriculture PER Curr Year = 0, Net Profit CAGR 2Y = 0
+2020-11-30 20:15:54,531 - PEG ~ Unable to compute PEG for Company PI within Sector Agriculture PER Curr Year = 0, Net Profit CAGR 2Y = 0
